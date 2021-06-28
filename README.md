@@ -1,8 +1,11 @@
 # GR4VTY
+
+# Astro Pi Mission Space Lab 2020/21
+
 IIS 'VERONATRENTO'
 MESSINA , SICILY, ITALY
 
-member:
+Members:
 - Francesco Santalucia
 - Giuseppe Gullo
 - Alessandro Barbera
